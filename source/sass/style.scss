@@ -1,0 +1,8 @@
+/* GLOBAL */
+@use "global/fonts.scss";
+@use "global/visually-hidden.scss";
+@use "global/mixins.scss";
+@use "global/variables.scss";
+
+/* BLOCKS */
+@import "blocks/header";
